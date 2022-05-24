@@ -71,6 +71,3 @@ Contribution guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 This list is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) License.
-
-## Test
-This is just a test
