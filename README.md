@@ -10,7 +10,14 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ## Table of contents
 
 <!--ts-->
-[Placeholder table of contents]
+* [Awesome Mozilla Hubs - WIP](#awesome-mozilla-hubs---wip)
+   * [Table of contents](#table-of-contents)
+   * [Creation](#creation)
+      * [Spoke](#spoke)
+      * [Blender](#blender)
+      * [Avatar Creators](#avatar-creators)
+      * [Other Tools](#other-tools)
+   * [Development](#development)
 <!--te-->
 
 ----
