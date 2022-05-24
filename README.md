@@ -3,8 +3,6 @@
 
 This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and Creators.
 
-[Placeholder for Contribution Guide.]
-
 ----
 
 ## Table of contents
@@ -33,4 +31,11 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Other Tools
 
 ## Development
-Test
+
+## Contributing
+
+Contribution guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+This list is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) License.
