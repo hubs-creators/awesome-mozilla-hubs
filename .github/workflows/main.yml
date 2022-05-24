@@ -8,12 +8,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v2
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ADMIN_TOKEN }}
+      - name: Configure CI Git User
+        run: |
+          git config --global user.name '@hubs-creators-bot'
+          git config --global user.email 'hubs-creators-bot@users.noreply.github.com'
       - run: |
           curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/0.8.0/gh-md-toc -o gh-md-toc
           chmod a+x gh-md-toc
           ./gh-md-toc --insert --no-backup --hide-footer README.md
           rm gh-md-toc
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Auto update markdown TOC
+      - name: Do git actions
+        run: |
+          git commit -am "Automated TOC creation commit. [skip actions]"
+          git push
