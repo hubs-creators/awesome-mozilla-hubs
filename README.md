@@ -19,7 +19,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
    * [Tools](#tools)
    * [Contributing](#contributing)
    * [License](#license)
-   * [Test](#test)
 <!--te-->
 
 ----
