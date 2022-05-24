@@ -22,19 +22,47 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ## Creation
 
+**[`^        back to top        ^`](#)**
+
+
 ### Spoke
+
+**[`^        back to top        ^`](#)**
+
 
 ### Blender
 
+**[`^        back to top        ^`](#)**
+
+
 ### Avatar Creators
+
+**[`^        back to top        ^`](#)**
+
 
 ### Other Tools
 
+**[`^        back to top        ^`](#)**
+
+
 ## Development
+
+**[`^        back to top        ^`](#)**
+
+
+## Tools
+
+**[`^        back to top        ^`](#)**
+
+- [hubs-bookmarklets](https://github.com/Exairnous/hubs-bookmarklets) -  A collection of bookmarklets to aid in the use of Mozilla Hubs.
+
+
+----
 
 ## Contributing
 
 Contribution guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
+
 
 ## License
 
