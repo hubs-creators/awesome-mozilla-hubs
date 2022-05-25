@@ -27,6 +27,8 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 **[`^        back to top        ^`](#)**
 
+- [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - A blog for sharing inspiration, creativity and knowledge regarding Hubs creation.
+
 
 ### Spoke
 
@@ -52,13 +54,24 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 **[`^        back to top        ^`](#)**
 
+### Hubs Client
+
+**[`^        back to top        ^`](#)**
+
+- [Custom Hubs Components](https://github.com/colinfizgig/Custom-Hubs-Components) - Guide and examples to create custom Hubs components.
+
+### Reticulum
+
+**[`^        back to top        ^`](#)**
+
+- [Customizing Reticulum](https://github.com/kou029w/zenn.dev/blob/master/articles/hubs-custom-reticulum.md) - A guide (in Japanese) to customize reticulum.
 
 ## Tools
 
 **[`^        back to top        ^`](#)**
 
 - [hubs-bookmarklets](https://github.com/Exairnous/hubs-bookmarklets) -  A collection of bookmarklets to aid in the use of Mozilla Hubs.
-
+- [Hubs tools & code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. 
 
 ----
 
