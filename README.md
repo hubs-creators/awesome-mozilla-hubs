@@ -16,6 +16,8 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
       * [Avatar Creators](#avatar-creators)
       * [Other Tools](#other-tools)
    * [Development](#development)
+      * [Hubs Client](#hubs-client)
+      * [Reticulum](#reticulum)
    * [Tools](#tools)
    * [Contributing](#contributing)
    * [License](#license)
