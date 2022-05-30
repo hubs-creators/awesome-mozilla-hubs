@@ -88,6 +88,8 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ## Hubs-Cloud Hosting
 
+**[`^        back to top        ^`](#)**
+
 - [Beyond monopolies: Mozilla Hubs on Digital Ocean](https://video.benetou.fr/w/7QPc8BQnwZBQZuxuwCuAhT) - Video tutorial on how to install Mozilla Hubs on Digital Ocean. Also see [this tutorial](https://video.benetou.fr/w/nxqC2ac8v93Tt7fXMQfygE), if you want to setup an internal database instead of a managed one.
 - [Custom polycosm boot](https://gist.github.com/yakyouk/9ebe93232b2a094ae14f481279e8fcef) - Alternative instance boot script for Mozilla Hubs CF template 1.1.1, which among other things prevents automatic updates.
 
