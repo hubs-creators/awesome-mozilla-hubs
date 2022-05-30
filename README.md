@@ -1,4 +1,4 @@
-# Awesome Mozilla Hubs - WIP
+# Awesome Mozilla Hubs
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and Creators.
