@@ -107,6 +107,12 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 - [Hubs tools & code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. Also see his [Github Gists](https://gist.github.com/Utopiah).
 
 
+## Community
+
+**[`^        back to top        ^`](#)**
+
+- [Hubs Creators Meetup](https://www.meetup.com/hubs-creators-meetup/) -  Community meetup for Hubs Cloud Devs, 3D artists, designers, and webXR makers. They host workshops and tech talks around topics related to Mozilla Hubs, Blender and Spoke.
+
 ----
 
 ## Contributing
