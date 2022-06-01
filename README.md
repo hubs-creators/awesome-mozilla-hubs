@@ -8,7 +8,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ## Table of contents
 
 <!--ts-->
-* [Awesome Mozilla Hubs - WIP](#awesome-mozilla-hubs---wip)
+* [Awesome Mozilla Hubs](#awesome-mozilla-hubs)
    * [Table of contents](#table-of-contents)
    * [Creation](#creation)
       * [Avatar Creators](#avatar-creators)
@@ -22,6 +22,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
    * [Hubs-Cloud Hosting](#hubs-cloud-hosting)
       * [Self Hosting](#self-hosting)
    * [Other Tools](#other-tools)
+   * [Community](#community)
    * [Contributing](#contributing)
    * [License](#license)
 <!--te-->
