@@ -63,6 +63,12 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 - [Using Mozilla Hubs with a Screen Reader](https://equalentry.com/mozilla-hubs-with-screen-reader/) - Experience report of using Mozilla Hubs with a screen reader (2020).
 
+### Code Snippets
+
+- [Hubs tools & code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. Also see his [Github Gists](https://gist.github.com/Utopiah).
+- [Hubs trigger volume color box](https://gist.github.com/colinfizgig/34138f63b2f8a76e12b3691fb834fbe5) - A script to create a trigger volume test for Mozilla Hubs. It sets up a trigger-volume that changes the color of a box.
+
+
 ### DevOps
 
 - [Automating Hubs Cloud Deployment Using CircleCI](https://xpportal.io/automating-hubs-cloud-deployment-using-circleci/) - Use CircleCI to maintain code quality and automatically deploy your custom Hubs Client.
@@ -100,12 +106,16 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 - [Hubs Installation Guide](https://github.com/albirrkarim/mozilla-hubs-installation-detailed) - Guide and documentation on how to run Mozilla Hubs locally or on a VPS.
 
 
-## Other Tools
+## Other
 
 **[`^        back to top        ^`](#)**
 
-- [hubs-bookmarklets](https://github.com/Exairnous/hubs-bookmarklets) -  A collection of bookmarklets to aid in the use of Mozilla Hubs.
-- [Hubs tools & code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. Also see his [Github Gists](https://gist.github.com/Utopiah).
+### Bookmarklets
+
+- [hubs-bookmarklets](https://github.com/Exairnous/hubs-bookmarklets) -  A collection of bookmarklets (greyscale, toggle cursor, wireframe, solid shading, ...) to aid in the use of Mozilla Hubs.
+- [Hubs Director](https://gist.github.com/gfodor/2ebdba84a49ba790bebe39aba2bee6ea) - Hubs Director Mode bookmarklet - Lets you easily create a custom lerp/slerp of the camera, optionally tracking a user, for recording nice videos in Hubs.
+- [Print users to console](https://gist.github.com/gfodor/674ae6a1b43264d2efbd63d3cd65124e) - Prints all present user to browser console.
+- [Streamer Mode](https://gist.github.com/gfodor/b63305340473ddc50698f92181140eab) - Toggle streamer mode via bookmarklet.
 
 
 ## Community
@@ -113,6 +123,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 **[`^        back to top        ^`](#)**
 
 - [Hubs Creators Meetup](https://www.meetup.com/hubs-creators-meetup/) -  Community meetup for Hubs Cloud Devs, 3D artists, designers, and webXR makers. They host workshops and tech talks around topics related to Mozilla Hubs, Blender and Spoke.
+- [Taco Tuesday Testing Day](https://docs.google.com/spreadsheets/d/1T6y3sgMmycDErlSvEoYL2pQMuTJ7f0w8mtAZK7m2smg/edit#gid=0) - Weekly community led testing day to help each other test rooms and features. Also see the [event document for the TTTD by Imaginer and JTa](https://docs.google.com/document/d/1RmOEcLQM4B395rkGZ4eJJ5q9q6M4DcTBncxT8A6jbvs/edit).
 
 ----
 
