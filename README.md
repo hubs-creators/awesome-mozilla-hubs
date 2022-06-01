@@ -52,6 +52,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 - [glTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/) - Tool to inspect gltf/glb files.
 - [VARTISTE](https://vartiste.xyz/) - Open Source, web-based 3D art creation tool in your webbrowser for desktop and VR.
 
+
 ## Development
 
 **[`^        back to top        ^`](#)**
@@ -65,15 +66,18 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 - [Using Mozilla Hubs with a Screen Reader](https://equalentry.com/mozilla-hubs-with-screen-reader/) - Experience report of using Mozilla Hubs with a screen reader (2020).
 
+
 ### Code Snippets
 
-- [Hubs tools & code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. Also see his [Github Gists](https://gist.github.com/Utopiah).
-- [Hubs trigger volume color box](https://gist.github.com/colinfizgig/34138f63b2f8a76e12b3691fb834fbe5) - A script to create a trigger volume test for Mozilla Hubs. It sets up a trigger-volume that changes the color of a box.
+- [Simple note taking](https://gist.github.com/camelgod/debe1881f4f5000537261bcc5977291a) - Code snippet to integrate a the command `/note` for note taking.
+- [Tools & Code snippets](https://fabien.benetou.fr/Tools/Hubs) - A collection of notes, experiments, tools and code snippets. Also see his [Github Gists](https://gist.github.com/Utopiah).
+- [Trigger volume color box](https://gist.github.com/colinfizgig/34138f63b2f8a76e12b3691fb834fbe5) - A script to create a trigger volume test for Mozilla Hubs. It sets up a trigger-volume that changes the color of a box.
 
 
 ### DevOps
 
 - [Automating Hubs Cloud Deployment Using CircleCI](https://xpportal.io/automating-hubs-cloud-deployment-using-circleci/) - Use CircleCI to maintain code quality and automatically deploy your custom Hubs Client.
+
 
 ### Hubs Client
 
@@ -111,6 +115,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ## Other
 
 **[`^        back to top        ^`](#)**
+
 
 ### Bookmarklets
 
