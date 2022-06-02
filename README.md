@@ -113,6 +113,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ### Self Hosting
 
+- [Docker Images](https://hub.docker.com/u/mozillareality) - Mozilla Hubs Docker images for their upcoming hosted service (project name: turkey). ⚠️ Not yet ready for production usage.
 - [Hubs Installation Guide](https://github.com/albirrkarim/mozilla-hubs-installation-detailed) - Guide and documentation on how to run Mozilla Hubs locally or on a VPS.
 
 
