@@ -32,6 +32,15 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ----
 
+
+## Community
+
+**[`^        back to top        ^`](#)**
+
+- [Hubs Creators Meetup](https://www.meetup.com/hubs-creators-meetup/) -  Community meetup for Hubs Cloud Devs, 3D artists, designers, and webXR makers. They host workshops and tech talks around topics related to Mozilla Hubs, Blender and Spoke.
+- [Taco Tuesday Testing Day](https://docs.google.com/spreadsheets/d/1T6y3sgMmycDErlSvEoYL2pQMuTJ7f0w8mtAZK7m2smg/edit#gid=0) - Weekly community led testing day to help each other test rooms and features. Also see the [event document for the TTTD by Imaginer and JTa](https://docs.google.com/document/d/1RmOEcLQM4B395rkGZ4eJJ5q9q6M4DcTBncxT8A6jbvs/edit).
+
+
 ## Creation
 
 **[`^        back to top        ^`](#)**
@@ -128,14 +137,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 - [Hubs Director](https://gist.github.com/gfodor/2ebdba84a49ba790bebe39aba2bee6ea) - Hubs Director Mode bookmarklet - Lets you easily create a custom lerp/slerp of the camera, optionally tracking a user, for recording nice videos in Hubs.
 - [Print users to console](https://gist.github.com/gfodor/674ae6a1b43264d2efbd63d3cd65124e) - Prints all present user to browser console.
 - [Streamer Mode](https://gist.github.com/gfodor/b63305340473ddc50698f92181140eab) - Toggle streamer mode via bookmarklet.
-
-
-## Community
-
-**[`^        back to top        ^`](#)**
-
-- [Hubs Creators Meetup](https://www.meetup.com/hubs-creators-meetup/) -  Community meetup for Hubs Cloud Devs, 3D artists, designers, and webXR makers. They host workshops and tech talks around topics related to Mozilla Hubs, Blender and Spoke.
-- [Taco Tuesday Testing Day](https://docs.google.com/spreadsheets/d/1T6y3sgMmycDErlSvEoYL2pQMuTJ7f0w8mtAZK7m2smg/edit#gid=0) - Weekly community led testing day to help each other test rooms and features. Also see the [event document for the TTTD by Imaginer and JTa](https://docs.google.com/document/d/1RmOEcLQM4B395rkGZ4eJJ5q9q6M4DcTBncxT8A6jbvs/edit).
 
 ----
 
