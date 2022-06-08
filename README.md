@@ -10,6 +10,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 <!--ts-->
 * [Awesome Mozilla Hubs](#awesome-mozilla-hubs)
    * [Table of contents](#table-of-contents)
+   * [Community](#community)
    * [Creation](#creation)
       * [Avatar Creators](#avatar-creators)
       * [Spoke](#spoke)
@@ -25,7 +26,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
       * [Self Hosting](#self-hosting)
    * [Other](#other)
       * [Bookmarklets](#bookmarklets)
-   * [Community](#community)
    * [Contributing](#contributing)
    * [License](#license)
 <!--te-->
