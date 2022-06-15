@@ -63,6 +63,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 - [glbutils](https://github.com/msfeldstein/glb-utils) - Command line utility for inspecting and modifying gltf binary files.
 - [glTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/) - Tool to inspect gltf/glb files.
+- [hubs-glb-tools](https://github.com/MozillaReality/hubs-glb-tools) - Command line utility to optimize glb files for usage in Mozilla Hubs, e.g. compressing textures.
 - [VARTISTE](https://vartiste.xyz/) - Open Source, web-based 3D art creation tool in your webbrowser for desktop and VR.
 
 
