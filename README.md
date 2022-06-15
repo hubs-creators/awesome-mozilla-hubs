@@ -55,9 +55,16 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 - [Ready Player Me](https://vr.readyplayer.me/de/avatar) - Avatars generated from a real photo of yourself with many customization options.
 - [Rhiannan Berry Avatar Customizer](https://www.qt-mkr.com/) - Hubs compatible avatars, with a lot of customization options and the option to upload your own logo.
 
+
+### Blender
+
+- [Tutorial: Lightmapping Process](https://elevons.design/mozilla-hubs-lightmapping-process/#1640873534985-86dc598a-00fe) - A tutorial on how to create lightmaps in Blender for usage in Mozilla Hubs.
+
+
 ### Spoke
 
 - [Introduction to Mirrors and Troika Text](https://www.youtube.com/watch?v=73RV0xbFD-c) - A short video tutorial on how to use Mirror and Troika Text components in Spoke.
+
 
 ### Tools
 
