@@ -105,6 +105,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Libraries
 
 - [HubsCloudUtil](https://github.com/rawnsley/HubsCloudUtil) - A library, written in Kotlin, to access Mozilla Hubs rooms via the WebSocket Interface.
+- [Hubs Connect](https://github.com/codeanticode/hubs-connect) - A library for usage in the processing programming environment, to access Mozilla Hubs rooms via the WebSocket Interface. The library is based on the HubsCloudUtil, mentioned before.
 
 
 ### Reticulum
