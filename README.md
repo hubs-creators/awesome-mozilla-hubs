@@ -29,6 +29,8 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
       * [Bookmarklets](#bookmarklets)
    * [Contributing](#contributing)
    * [License](#license)
+   * [Sponsor](#sponsor)
+      * [Tvibit - Kreativ Teknologi](#tvibit---kreativ-teknologi)
 <!--te-->
 
 ----
