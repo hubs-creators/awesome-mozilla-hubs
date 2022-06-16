@@ -158,3 +158,12 @@ Contribution guidelines can be found in [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 This list is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) License.
+
+
+## Sponsor
+
+### Tvibit - Kreativ Teknologi
+![Logo Tvibit](img/sponsor_tvibitlogo.png)
+![KT](img/sponsor_KT_Logo.png)
+
+Tvibit graciously sponsored working hours of their department Kreativ Teknologi, to create a 3D scenery for the Mozilla Hubs Awesome List. This scenery, once finished, will be released on GitHub as a learning resource. Tvibit is a cultural and creative hub for youth and young adulst. [Click here to check out their website.](https://tvibit.net/tvibit-eng)
