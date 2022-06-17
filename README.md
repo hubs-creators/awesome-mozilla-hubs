@@ -61,6 +61,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ### Blender
 
+- [Avatar assets and templates for Mozilla Hubs](https://github.com/MozillaReality/hubs-avatar-pipelines) - A repository with useful working files for editing avatars for Mozilla Hubs.
 - [Tutorial: Lightmapping Process](https://elevons.design/mozilla-hubs-lightmapping-process/#1640873534985-86dc598a-00fe) - A tutorial on how to create lightmaps in Blender for usage in Mozilla Hubs.
 
 
