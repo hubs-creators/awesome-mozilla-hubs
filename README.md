@@ -5,7 +5,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ----
 
-# Kick-off Event — 5th July
+## Kick-off Event — 5th July
 
 **Time**: 5th July, 10.30a PDT / 1.30p EDT / 7.30p CEST | [Click here for time conversion](https://www.worldtimebuddy.com/?qm=1&lid=8,5128581,2950159&h=8&date=2022-7-5&sln=10.5-11.5&hf=1)
 
