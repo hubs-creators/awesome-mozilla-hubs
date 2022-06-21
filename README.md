@@ -26,6 +26,7 @@ View full event details: https://www.meetup.com/hubs-creators-meetup/events/2864
 
 <!--ts-->
 * [Awesome Mozilla Hubs](#awesome-mozilla-hubs)
+* [Kick-off Event — 5th July](#kick-off-event--5th-july)
    * [Table of contents](#table-of-contents)
    * [Community](#community)
    * [Creation](#creation)
