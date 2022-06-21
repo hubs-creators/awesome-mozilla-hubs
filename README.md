@@ -11,13 +11,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 The Awesome Mozilla Hubs has been initiated to gather resources for Hubs creators and developers in a structured central place. You want to know what this is about and how to participate, then this event is for you!
 
-We will start with a fun activity — Duck racing/Parade.
-
-Event Schedule:
-- Introduction to the Awesome List: What is it about?
-- How to contribute?
-- Becoming a co-maintainer.
-
 View full event details: https://www.meetup.com/hubs-creators-meetup/events/286418490/
 
 ----
