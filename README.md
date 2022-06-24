@@ -79,7 +79,7 @@ View full event details: https://www.meetup.com/hubs-creators-meetup/events/2864
 
 ### Scenes
 
-- [Express](https://hubs.mozilla.com/ztugSUz/express) by Exo Guid is a scenery, where users are located on a train, which travels through a landscape at night.
+- [Express](https://hubs.mozilla.com/ztugSUz/express) - Scene by Exo Guid, where users are located on a train, which travels through a landscape at night.
 
 
 ### Spoke
