@@ -76,6 +76,11 @@ View full event details: https://www.meetup.com/hubs-creators-meetup/events/2864
 - [Tutorial: Lightmapping Process](https://elevons.design/mozilla-hubs-lightmapping-process/#1640873534985-86dc598a-00fe) - A tutorial on how to create lightmaps in Blender for usage in Mozilla Hubs.
 
 
+### Scenes
+
+- [Express](https://hubs.mozilla.com/ztugSUz/express) by Exo Guid is a scenery, where users are located on a train, which travels through a landscape at night.
+
+
 ### Spoke
 
 - [Introduction to Mirrors and Troika Text](https://www.youtube.com/watch?v=73RV0xbFD-c) - A short video tutorial on how to use Mirror and Troika Text components in Spoke.
