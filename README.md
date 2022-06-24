@@ -25,6 +25,7 @@ View full event details: https://www.meetup.com/hubs-creators-meetup/events/2864
    * [Creation](#creation)
       * [Avatar Creators](#avatar-creators)
       * [Blender](#blender)
+      * [Scenes](#scenes)
       * [Spoke](#spoke)
       * [Tools](#tools)
    * [Development](#development)
