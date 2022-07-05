@@ -74,6 +74,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Spoke
 
 - [Introduction to Mirrors and Troika Text](https://www.youtube.com/watch?v=73RV0xbFD-c) - A short video tutorial on how to use Mirror and Troika Text components in Spoke.
+- [Video Tutorial about waypoints](www.example.com) - Nice in depth tutorial about waypoint.
 
 
 ### Tools
