@@ -5,16 +5,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 ----
 
-## Kick-off Event — 5th July
-
-**Time**: 5th July, 10.30a PDT / 1.30p EDT / 7.30p CEST | [Click here for time conversion](https://www.worldtimebuddy.com/?qm=1&lid=8,5128581,2950159&h=8&date=2022-7-5&sln=10.5-11.5&hf=1)
-
-The Awesome Mozilla Hubs has been initiated to gather resources for Hubs creators and developers in a structured central place. You want to know what this is about and how to participate, then this event is for you!
-
-View full event details: https://www.meetup.com/hubs-creators-meetup/events/286418490/
-
-----
-
 ## Table of contents
 
 <!--ts-->
