@@ -9,7 +9,6 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 <!--ts-->
 * [Awesome Mozilla Hubs](#awesome-mozilla-hubs)
-   * [Kick-off Event — 5th July](#kick-off-event--5th-july)
    * [Table of contents](#table-of-contents)
    * [Community](#community)
    * [Creation](#creation)
