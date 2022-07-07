@@ -69,6 +69,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Scenes
 
 - [Express](https://hubs.mozilla.com/ztugSUz/express) - Scene by Exo Guid, where users are located on a train, which travels through a landscape at night.
+- [Hubs Race Track](https://hubs.mozilla.com/scenes/XmybQDU/hubs-race-track) - Scene by Imaginer where users can participate in a kart-reminiscent race experience.  Warning: flashing lights.
 
 
 ### Spoke
