@@ -49,16 +49,16 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 **[`^        back to top        ^`](#)**
 
-- [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - A blog for sharing inspiration, creativity and knowledge regarding Hubs creation.
-- [Mozilla Hubs Youtube Channel](https://www.youtube.com/c/MozillaHubs/) - Lots of videos regarding content creation for Mozilla Hubs, including Material Setup, Light Baking, Virtual Cameras, Floor Plans, Waypoints, Hubs Blender Exporter, Avatars and more.
-
-
 ### Avatar Creators
 
 - [Hubs Hackweek Avatar Maker](https://mozilla.github.io/hackweek-avatar-maker/) - Avatars that perform very well in Hubs with customizable eyes, hair-styles, skin-tones, freckles, clothing, accessories and more.
 - [Ready Player Me](https://vr.readyplayer.me/de/avatar) - Avatars generated from a real photo of yourself with many customization options.
 - [Rhiannan Berry Avatar Customizer](https://www.qt-mkr.com/) - Hubs compatible avatars, with a lot of customization options and the option to upload your own logo.
 
+
+### Avatars
+
+- [Flash Bot](https://gist.github.com/jywarren/e9f401710521a6e357565bab2dba9b3a) - glTF Source file for the Flash Bot Avatar ([Avatar Preview on Mozilla Hubs](https://hubs.mozilla.com/avatars/qz6xuHs)).
 
 ### Blender
 
@@ -69,21 +69,30 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Scenes
 
 - [Express](https://hubs.mozilla.com/ztugSUz/express) - Scene by Exo Guid, where users are located on a train, which travels through a landscape at night.
+- [HubHenge](https://github.com/LearnHub/HubHenge) - Scene by Pellinore/rawnsley, which is a Stonehenge inspired night scenery for learning purposes. It demonstrates the use of lightmaps and HDR environment maps.
 - [Hubs Race Track](https://hubs.mozilla.com/scenes/XmybQDU/hubs-race-track) - Scene by Imaginer where users can participate in a kart-reminiscent race experience.  Warning: flashing lights.
 
 
 ### Spoke
 
 - [Introduction to Mirrors and Troika Text](https://www.youtube.com/watch?v=73RV0xbFD-c) - A short video tutorial on how to use Mirror and Troika Text components in Spoke.
+- [A Summer with Particles and Emojis](https://blog.mozvr.com/a-summer-with-particles-and-emojis/) - Written introduction to particles in Spoke.
 
 
 ### Tools
 
 - [glbutils](https://github.com/msfeldstein/glb-utils) - Command line utility for inspecting and modifying gltf binary files.
+- [glTF Report](https://gltf.report/) - WebApp to inspect glTF/glb files.
 - [glTF Sample Viewer](https://github.khronos.org/glTF-Sample-Viewer-Release/) - Tool to inspect gltf/glb files.
 - [hubs-glb-tools](https://github.com/MozillaReality/hubs-glb-tools) - Command line utility to optimize glb files for usage in Mozilla Hubs, e.g. compressing textures.
 - [VARTISTE](https://vartiste.xyz/) - Open Source, web-based 3D art creation tool in your webbrowser for desktop and VR.
 
+
+### Tutorials
+
+- [glTF-Tutorials - KhronosGroup](https://github.com/KhronosGroup/glTF-Tutorials) - Tutorials and resources about using the glTF file format.
+- [Hubs Creator Labs](https://hubs.mozilla.com/labs/) - A blog for sharing inspiration, creativity and knowledge regarding Hubs creation.
+- [Mozilla Hubs Youtube Channel](https://www.youtube.com/c/MozillaHubs/) - Lots of videos regarding content creation for Mozilla Hubs, including Material Setup, Light Baking, Virtual Cameras, Floor Plans, Waypoints, Hubs Blender Exporter, Avatars and more.
 
 ## Development
 
@@ -130,6 +139,10 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Reticulum
 
 - [Customizing Reticulum](https://github.com/kou029w/zenn.dev/blob/master/articles/hubs-custom-reticulum.md) - A guide (in Japanese) to customize reticulum.
+
+### WebRTC
+
+- [WebRTC Notes for Hubs](https://gist.github.com/netpro2k/88f48a4b92276c0ebb6bdba9162e128e) - Notes on how WebRTC is used within Mozilla Hubs.
 
 
 ## Hubs-Cloud Hosting
