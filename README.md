@@ -142,6 +142,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 ### Reticulum
 
 - [Customizing Reticulum](https://github.com/kou029w/zenn.dev/blob/master/articles/hubs-custom-reticulum.md) - A guide (in Japanese) to customize reticulum.
+- [Public API (v2) Documentation](https://github.com/mozilla/reticulum/blob/master/guides/api.md) - A short guide on how to utilize the publica API (v2) of Mozilla Hubs.
 
 ### WebRTC
 
