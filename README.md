@@ -15,6 +15,7 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
       * [Avatar Creators](#avatar-creators)
       * [Avatars](#avatars)
       * [Blender](#blender)
+      * [Room and scene directories](#room-and-scene-directories)
       * [Scenes](#scenes)
       * [Spoke](#spoke)
       * [Tools](#tools)
