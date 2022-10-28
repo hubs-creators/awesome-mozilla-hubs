@@ -63,10 +63,16 @@ This is a curated list of resources for Mozilla Hubs & Hubs-Cloud Developers and
 
 - [Flash Bot](https://gist.github.com/jywarren/e9f401710521a6e357565bab2dba9b3a) - glTF Source file for the Flash Bot Avatar ([Avatar Preview on Mozilla Hubs](https://hubs.mozilla.com/avatars/qz6xuHs)).
 
+
 ### Blender
 
 - [Avatar assets and templates for Mozilla Hubs](https://github.com/MozillaReality/hubs-avatar-pipelines) - A repository with useful working files for editing avatars for Mozilla Hubs.
 - [Tutorial: Lightmapping Process](https://elevons.design/mozilla-hubs-lightmapping-process/#1640873534985-86dc598a-00fe) - A tutorial on how to create lightmaps in Blender for usage in Mozilla Hubs.
+
+
+### Room and scene directories
+
+- [Hubs Directory](https://hubs.inmytree.co.za/) - A browsable and searchable community built directory of Mozilla Hubs scenes and rooms.
 
 
 ### Scenes
